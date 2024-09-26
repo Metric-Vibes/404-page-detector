@@ -2,6 +2,6 @@ homepage: "https://github.com/Metric-Vibes/404-page-detector.git"
 documentation: "https://github.com/Metric-Vibes/404-page-detector/blob/main/README.md"
 versions:
   - sha: 1ee75ded01543635659bd0c7122bb778639d2f57
-    changeNotes: Changed template name to template.tpl
+    changeNotes: Changed template name
   - sha: 8dae2f70911370f86526df69e04aaeceb0c4a35b
     changeNotes: Initial Release
