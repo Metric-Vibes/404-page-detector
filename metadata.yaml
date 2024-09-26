@@ -1,5 +1,5 @@
 homepage: "https://github.com/Metric-Vibes/404-page-detector.git"
 documentation: "https://github.com/Metric-Vibes/404-page-detector/blob/main/README.md"
 versions:
-  - sha: fdb2cea4aab7de4a79238ab7b6808797c538dc46
+  - sha: 8dae2f70911370f86526df69e04aaeceb0c4a35b
     changeNotes: Initial Release
