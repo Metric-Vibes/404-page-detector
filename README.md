@@ -1,6 +1,6 @@
 # 404-page-detector
 
-This GTM (Google Tag Manager) custom template enables you to detect 404 error pages on your website and push an event to the `dataLayer` when such pages are encountered. By using this template, you can track when users land on pages that do not exist (broken links, removed content, or mistyped URLs) and take appropriate actions to improve your site’s performance and user experience.
+This GTM (Google Tag Manager) custom template enables you to detect 404 error pages on your website and push an event to the `dataLayer` when such pages are encountered. By using this template, you can track when users land on pages that do not exist (broken links, removed content, or mistyped URLs) and take appropriate actions to improve your site’s performance and user experience. Below is the datalayer event:
 
 ![image](https://github.com/user-attachments/assets/57dd2a59-7ecc-455a-a838-3363f323bf0a)
 
